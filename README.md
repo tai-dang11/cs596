@@ -1,1 +1,1 @@
-# cs596
+# Independent Study-CS596
